@@ -1,2 +1,2 @@
 # ShowLocalWeather-FCC
-This is a project I built based on "Show the Local Weather" from freeCodeCamp's "Take Home Projects" course.
+This is a project I built based on "Show the Local Weather" from freeCodeCamp's "Take Home Projects" course. It's functional except for the spinning weather icon which sometimes doesn't display... It's a very annoying problem since I used the API that freeCodeCamp recommended, which they said would be okay, but it turns out it doesn't really cover all bases. I'll have to fix that at some point, but odds are the icon will be found and will display for most types of weather.
